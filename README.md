@@ -1,2 +1,2 @@
 # odin-recipes
-A basic repository to allow 
+A basic website to allow for me to practices my html skills
